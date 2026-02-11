@@ -1,0 +1,8 @@
+{
+  "Person" "deserializedPerson",
+  "=" "JsonConvert.DeserializeObject<Person>(json);",
+  "Console.WriteLine(\"Deserialized Person: Name - \"" "+",
+  "deserializedPerson.Name" "+",
+  ", Age - " "+",
+  "deserializedPerson.Age);"
+}

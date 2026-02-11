@@ -1,0 +1,17 @@
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\bin\Debug\net8.0\JSON_Lab.exe
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\bin\Debug\net8.0\JSON_Lab.deps.json
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\bin\Debug\net8.0\JSON_Lab.runtimeconfig.json
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\bin\Debug\net8.0\JSON_Lab.dll
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\bin\Debug\net8.0\JSON_Lab.pdb
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\obj\Debug\net8.0\JSON_Lab.csproj.AssemblyReference.cache
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\obj\Debug\net8.0\JSON_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\obj\Debug\net8.0\JSON_Lab.AssemblyInfoInputs.cache
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\obj\Debug\net8.0\JSON_Lab.AssemblyInfo.cs
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\obj\Debug\net8.0\JSON_Lab.csproj.CoreCompileInputs.cache
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\obj\Debug\net8.0\JSON_Lab.csproj.Up2Date
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\obj\Debug\net8.0\JSON_Lab.dll
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\obj\Debug\net8.0\refint\JSON_Lab.dll
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\obj\Debug\net8.0\JSON_Lab.pdb
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\obj\Debug\net8.0\JSON_Lab.genruntimeconfig.cache
+C:\Users\fg1027507.OTC.001\source\repos\JSON_Lab\JSON_Lab\obj\Debug\net8.0\ref\JSON_Lab.dll
